@@ -1,0 +1,35 @@
+body {
+    width: 715px;
+    margin: 0 auto;
+    background-image: url(../img/registro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(17, 18, 19);
+}
+
+form {
+    width: 715px;
+}
+
+img {
+    width: 40px;
+    margin: 20px;
+}
+
+legend {
+    color: rgb(3, 10, 15);
+}
+
+td {
+    color: rgb(13, 20, 26);
+}
+
+tr {
+    color: rgb(4, 12, 19)
+}
